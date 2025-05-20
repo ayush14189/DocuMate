@@ -1,4 +1,4 @@
-# PDF Analyzer Application
+# DocuMate - Chat with Your Documents using AI-Driven Insights & Smart Scanning
 
 An interactive PDF analysis application that allows users to upload PDF documents and ask questions about their content using AI. The application uses FastAPI for the backend, React for the frontend, and Groq's API for AI-powered question answering.
 
